@@ -4,6 +4,12 @@ Below are the links to various projects in the Movement ecosystem:
 
 > **⚠️ Warning:** Please check that each quest is indeed related to the Movement ecosystem before engaging.
 
+If you're having trouble loading Galxe quests in the hub, you can find a compilation of most Galxe project links here.
+
+> **ℹ️ Note:** Quests related to Movement will have a "Movement" tag and will indicate the associated guild. This list is a workaround if your Hub is not loading.
+
+> **⚠️ Official quests at: ** [https://testnet.movementlabs.xyz](https://testnet.movementlabs.xyz/)
+
 - **Avitus**: [Avitus Quest](https://app.galxe.com/quest/Avitus)
 - **BRKT**: [BRKT Quest](https://app.galxe.com/quest/BRKT)
 - **CoScription**: [CoScription Quest](https://app.galxe.com/quest/CoScription)
