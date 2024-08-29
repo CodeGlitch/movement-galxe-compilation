@@ -8,7 +8,7 @@ If you're having trouble loading Galxe quests in the hub, you can find a compila
 > 
 > **ℹ️ Note:** Quests related to Movement will have a "Movement" tag and will indicate the associated guild. This list is a workaround if your Hub is not loading.
 > 
-> **⚠️ Official quests at: ** [https://testnet.movementlabs.xyz](https://testnet.movementlabs.xyz/)
+> ⚠️ Official quests at: [https://testnet.movementlabs.xyz](https://testnet.movementlabs.xyz/)
 
 - **Avitus**: [Avitus Quest](https://app.galxe.com/quest/Avitus)
 - **BRKT**: [BRKT Quest](https://app.galxe.com/quest/BRKT)
