@@ -1,2 +1,35 @@
-# movement-galxe-compilation
-movement ecosystem galxe compilation of projects
+# Project Links
+
+Below are the links to various projects in the Movement ecosystem:
+
+> **⚠️ Warning:** Please check that each quest is indeed related to the Movement ecosystem before engaging.
+
+- **Avitus**: [Avitus Quest](https://app.galxe.com/quest/Avitus)
+- **BRKT**: [BRKT Quest](https://app.galxe.com/quest/BRKT)
+- **CoScription**: [CoScription Quest](https://app.galxe.com/quest/CoScription)
+- **Echelon**: [Echelon Quest](https://app.galxe.com/quest/Echelon)
+- **EnsoFi**: [EnsoFi Quest](https://app.galxe.com/quest/EnsoFi)
+- **HenrySocial**: [HenrySocial Quest](https://app.galxe.com/quest/HenrySocial)
+- **InterestProtocol**: [InterestProtocol Quest](https://app.galxe.com/quest/InterestProtocol)
+- **LayerBank**: [LayerBank Quest](https://app.galxe.com/quest/LayerBank)
+- **LunchApp**: [LunchApp Quest](https://app.galxe.com/quest/LunchApp)
+- **lync**: [lync Quest](https://app.galxe.com/quest/lync)
+- **Meridian**: [Meridian Quest](https://app.galxe.com/quest/Meridian)
+- **Mosaic**: [Mosaic Quest](https://app.galxe.com/quest/Mosaic)
+- **Movelend**: [Movelend Quest](https://app.galxe.com/quest/Movelend)
+- **Movement**: [Movement Quest](https://app.galxe.com/quest/Movement)
+- **Moveposition**: [Moveposition Quest](https://app.galxe.com/quest/Moveposition)
+- **Movewiffrens**: [Movewiffrens Quest](https://app.galxe.com/quest/Movewiffrens)
+- **Nexio**: [Nexio Quest](https://app.galxe.com/quest/Nexio)
+- **OmniBTC**: [OmniBTC Quest](https://app.galxe.com/quest/OmniBTC)
+- **overlay**: [overlay Quest](https://app.galxe.com/quest/overlay)
+- **PlayAI**: [PlayAI Quest](https://app.galxe.com/quest/PlayAI)
+- **RazorDao**: [RazorDao Quest](https://app.galxe.com/quest/RazorDao)
+- **Route-X**: [Route-X Quest](https://app.galxe.com/quest/Route-X)
+- **satay**: [satay Quest](https://app.galxe.com/quest/satay)
+- **SeekersAlliance**: [SeekersAlliance Quest](https://app.galxe.com/quest/SeekersAlliance)
+- **StableJack**: [StableJack Quest](https://app.galxe.com/quest/StableJack)
+- **UpNetwork**: [UpNetwork Quest](https://app.galxe.com/quest/UpNetwork)
+- **WarpGate**: [WarpGate Quest](https://app.galxe.com/quest/WarpGate)
+- **Xebra**: [Xebra Quest](https://app.galxe.com/quest/Xebra)
+- **Yuzu**: [Yuzu Quest](https://app.galxe.com/quest/Yuzu)
