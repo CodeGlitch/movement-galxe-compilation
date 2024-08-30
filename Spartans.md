@@ -31,7 +31,6 @@
 - **CoScription: CoScription Quest** :N/A
 - **EnsoFi: EnsoFi Quest** :N/A
 - **Movelend: Movelend Quest** :N/A
-- **Movement: Movement Quest** :N/A
 - **Moveposition: Moveposition Quest** :N/A
 - **Nexio: Nexio Quest** :N/A
 - **Route-X: Route-X Quest** :N/A
