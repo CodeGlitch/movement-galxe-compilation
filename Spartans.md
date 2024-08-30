@@ -14,6 +14,7 @@
 - **HenrySocial**: [HenrySocial Quest](https://app.galxe.com/quest/HenrySocial/GCw4GtgYVa)
 - **InterestProtocol**: [InterestProtocol Quest](https://app.galxe.com/quest/InterestProtocol/GCjpGtkncZ)
 - **LunchApp**: [LunchApp Quest](https://app.galxe.com/quest/LunchApp/GCVXMtvqKm)
+- **LayerBank**: [LayerBank Quest](https://app.galxe.com/quest/LayerBank/GCSMXtxvFR)
 - **lync**: [lync Quest](https://app.galxe.com/quest/lync/GCjdvtvQ8L)
 - **Meridian**: [Meridian Quest](https://app.galxe.com/quest/Meridian/GC1xMtkucW)
 - **Mosaic**: [Mosaic Quest](https://app.galxe.com/quest/Mosaic/GCaANtvi6N)
@@ -26,3 +27,14 @@
 - **StableJack**: [StableJack Quest](https://app.galxe.com/quest/StableJack/GCX8QtkWas)
 - **WarpGate**: [WarpGate Quest](https://app.galxe.com/quest/WarpGate/GCqYntkSZM)
 - **Xebra**: [Xebra Quest](https://app.galxe.com/quest/Xebra/GC1DptkXNv)
+
+- **CoScription: CoScription Quest** :N/A
+- **EnsoFi: EnsoFi Quest** :N/A
+- **Movelend: Movelend Quest** :N/A
+- **Movement: Movement Quest** :N/A
+- **Moveposition: Moveposition Quest** :N/A
+- **Nexio: Nexio Quest** :N/A
+- **Route-X: Route-X Quest** :N/A
+- **satay: satay Quest** :N/A
+- **UpNetwork: UpNetwork Quest** :N/A
+- **Yuzu: Yuzu Quest** :N/A
