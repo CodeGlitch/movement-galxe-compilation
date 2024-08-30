@@ -15,6 +15,7 @@
 - **HenrySocial**: [HenrySocial Quest](https://app.galxe.com/quest/HenrySocial/GCFiTtktLm)
 - **HenrySocial**: [HenrySocial Quest](https://app.galxe.com/quest/HenrySocial/GC4Dhtk7r9)
 - **InterestProtocol**: [InterestProtocol Quest](https://app.galxe.com/quest/InterestProtocol/GCQc3tkxsh)
+- **LayerBank**: [LayerBank Quest](https://app.galxe.com/quest/LayerBank/GCepXtxdDi)
 - **LunchApp**: [LunchApp Quest](https://app.galxe.com/quest/LunchApp/GC3mdtvrvf)
 - **Mosaic**: [Mosaic Quest](https://app.galxe.com/quest/Mosaic/GCH1NtvHvD)
 - **Movelend**: [Movelend Quest](https://app.galxe.com/quest/Movelend/GCLcbtvLnt)
@@ -31,7 +32,6 @@
 - **WarpGate**: [WarpGate Quest](https://app.galxe.com/quest/WarpGate/GCRSRtvxTo)
 - **Xebra**: [Xebra Quest](https://app.galxe.com/quest/Xebra/GCYJptkpza)
 - **CoScription: CoScription Quest** :N/A
-- **LayerBank: LayerBank Quest** :N/A
 - **lync: lync Quest** :N/A
 - **Meridian: Meridian Quest** :N/A
 - **Movement: Movement Quest** :N/A
