@@ -21,3 +21,20 @@
 - **UpNetwork**: [UpNetwork Quest](https://app.galxe.com/quest/UpNetwork/GCNXMtkm3m)
 - **WarpGate**: [WarpGate Quest](https://app.galxe.com/quest/WarpGate/GCRaRtvvXh)
 - **Xebra**: [Xebra Quest](https://app.galxe.com/quest/Xebra/GCmzptkEkF)
+
+- **BRKT: BRKT Quest** :N/A
+- **Echelon: Echelon Quest** :N/A
+- **InterestProtocol: InterestProtocol Quest** :N/A
+- **LayerBank: LayerBank Quest** :N/A
+- **LunchApp: LunchApp Quest** :N/A
+- **lync: lync Quest** :N/A
+- **Meridian: Meridian Quest** :N/A
+- **Movement: Movement Quest** :N/A
+- **Movelend: Movelend Quest** :N/A
+- **Nexio: Nexio Quest** :N/A
+- **OmniBTC: OmniBTC Quest** :N/A
+- **overlay: overlay Quest** :N/A
+- **PlayAI: PlayAI Quest** :N/A
+- **RazorDao: RazorDao Quest** :N/A
+- **Route-X: Route-X Quest** :N/A
+- **Yuzu: Yuzu Quest** :N/A
