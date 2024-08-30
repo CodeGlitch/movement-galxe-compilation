@@ -31,7 +31,6 @@
 - **CoScription: CoScription Quest** :N/A
 - **Echelon: Echelon Quest** :N/A
 - **lync: lync Quest** :N/A
-- **Movement: Movement Quest** :N/A
 - **Movelend: Movelend Quest** :N/A
 - **Moveposition: Moveposition Quest** :N/A
 - **PlayAI: PlayAI Quest** :N/A
