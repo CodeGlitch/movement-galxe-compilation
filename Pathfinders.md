@@ -29,7 +29,6 @@
 - **LunchApp: LunchApp Quest** :N/A
 - **lync: lync Quest** :N/A
 - **Meridian: Meridian Quest** :N/A
-- **Movement: Movement Quest** :N/A
 - **Movelend: Movelend Quest** :N/A
 - **Nexio: Nexio Quest** :N/A
 - **OmniBTC: OmniBTC Quest** :N/A
