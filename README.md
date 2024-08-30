@@ -8,34 +8,34 @@ If you're having trouble loading Galxe quests in the hub, you can find a compila
 > 
 > **ℹ️ Note:** Quests related to Movement will have a "Movement" tag and will indicate the associated guild. This list is a workaround if your Hub is not loading.
 > 
-> ⚠️ Official quests at: [https://testnet.movementlabs.xyz](https://testnet.movementlabs.xyz/)
+> ⚠️ Official quests at: <a href="https://testnet.movementlabs.xyz" target="_blank">https://testnet.movementlabs.xyz</a>
 
-- **Avitus**: [Avitus Quest](https://app.galxe.com/quest/Avitus)
-- **BRKT**: [BRKT Quest](https://app.galxe.com/quest/BRKT)
-- **CoScription**: [CoScription Quest](https://app.galxe.com/quest/CoScription)
-- **Echelon**: [Echelon Quest](https://app.galxe.com/quest/Echelon)
-- **EnsoFi**: [EnsoFi Quest](https://app.galxe.com/quest/EnsoFi)
-- **HenrySocial**: [HenrySocial Quest](https://app.galxe.com/quest/HenrySocial)
-- **InterestProtocol**: [InterestProtocol Quest](https://app.galxe.com/quest/InterestProtocol)
-- **LayerBank**: [LayerBank Quest](https://app.galxe.com/quest/LayerBank)
-- **LunchApp**: [LunchApp Quest](https://app.galxe.com/quest/LunchApp)
-- **lync**: [lync Quest](https://app.galxe.com/quest/lync)
-- **Meridian**: [Meridian Quest](https://app.galxe.com/quest/Meridian)
-- **Mosaic**: [Mosaic Quest](https://app.galxe.com/quest/Mosaic)
-- **Movelend**: [Movelend Quest](https://app.galxe.com/quest/Movelend)
-- **Movement**: [Movement Quest](https://app.galxe.com/quest/Movement)
-- **Moveposition**: [Moveposition Quest](https://app.galxe.com/quest/Moveposition)
-- **Movewiffrens**: [Movewiffrens Quest](https://app.galxe.com/quest/Movewiffrens)
-- **Nexio**: [Nexio Quest](https://app.galxe.com/quest/Nexio)
-- **OmniBTC**: [OmniBTC Quest](https://app.galxe.com/quest/OmniBTC)
-- **overlay**: [overlay Quest](https://app.galxe.com/quest/overlay)
-- **PlayAI**: [PlayAI Quest](https://app.galxe.com/quest/PlayAI)
-- **RazorDao**: [RazorDao Quest](https://app.galxe.com/quest/RazorDao)
-- **Route-X**: [Route-X Quest](https://app.galxe.com/quest/Route-X)
-- **satay**: [satay Quest](https://app.galxe.com/quest/satay)
-- **SeekersAlliance**: [SeekersAlliance Quest](https://app.galxe.com/quest/SeekersAlliance)
-- **StableJack**: [StableJack Quest](https://app.galxe.com/quest/StableJack)
-- **UpNetwork**: [UpNetwork Quest](https://app.galxe.com/quest/UpNetwork)
-- **WarpGate**: [WarpGate Quest](https://app.galxe.com/quest/WarpGate)
-- **Xebra**: [Xebra Quest](https://app.galxe.com/quest/Xebra)
-- **Yuzu**: [Yuzu Quest](https://app.galxe.com/quest/Yuzu)
+- **Avitus**: <a href="https://app.galxe.com/quest/Avitus" target="_blank">Avitus Quest</a>
+- **BRKT**: <a href="https://app.galxe.com/quest/BRKT" target="_blank">BRKT Quest</a>
+- **CoScription**: <a href="https://app.galxe.com/quest/CoScription" target="_blank">CoScription Quest</a>
+- **Echelon**: <a href="https://app.galxe.com/quest/Echelon" target="_blank">Echelon Quest</a>
+- **EnsoFi**: <a href="https://app.galxe.com/quest/EnsoFi" target="_blank">EnsoFi Quest</a>
+- **HenrySocial**: <a href="https://app.galxe.com/quest/HenrySocial" target="_blank">HenrySocial Quest</a>
+- **InterestProtocol**: <a href="https://app.galxe.com/quest/InterestProtocol" target="_blank">InterestProtocol Quest</a>
+- **LayerBank**: <a href="https://app.galxe.com/quest/LayerBank" target="_blank">LayerBank Quest</a>
+- **LunchApp**: <a href="https://app.galxe.com/quest/LunchApp" target="_blank">LunchApp Quest</a>
+- **lync**: <a href="https://app.galxe.com/quest/lync" target="_blank">lync Quest</a>
+- **Meridian**: <a href="https://app.galxe.com/quest/Meridian" target="_blank">Meridian Quest</a>
+- **Mosaic**: <a href="https://app.galxe.com/quest/Mosaic" target="_blank">Mosaic Quest</a>
+- **Movelend**: <a href="https://app.galxe.com/quest/Movelend" target="_blank">Movelend Quest</a>
+- **Movement**: <a href="https://app.galxe.com/quest/Movement" target="_blank">Movement Quest</a>
+- **Moveposition**: <a href="https://app.galxe.com/quest/Moveposition" target="_blank">Moveposition Quest</a>
+- **Movewiffrens**: <a href="https://app.galxe.com/quest/Movewiffrens" target="_blank">Movewiffrens Quest</a>
+- **Nexio**: <a href="https://app.galxe.com/quest/Nexio" target="_blank">Nexio Quest</a>
+- **OmniBTC**: <a href="https://app.galxe.com/quest/OmniBTC" target="_blank">OmniBTC Quest</a>
+- **overlay**: <a href="https://app.galxe.com/quest/overlay" target="_blank">overlay Quest</a>
+- **PlayAI**: <a href="https://app.galxe.com/quest/PlayAI" target="_blank">PlayAI Quest</a>
+- **RazorDao**: <a href="https://app.galxe.com/quest/RazorDao" target="_blank">RazorDao Quest</a>
+- **Route-X**: <a href="https://app.galxe.com/quest/Route-X" target="_blank">Route-X Quest</a>
+- **satay**: <a href="https://app.galxe.com/quest/satay" target="_blank">satay Quest</a>
+- **SeekersAlliance**: <a href="https://app.galxe.com/quest/SeekersAlliance" target="_blank">SeekersAlliance Quest</a>
+- **StableJack**: <a href="https://app.galxe.com/quest/StableJack" target="_blank">StableJack Quest</a>
+- **UpNetwork**: <a href="https://app.galxe.com/quest/UpNetwork" target="_blank">UpNetwork Quest</a>
+- **WarpGate**: <a href="https://app.galxe.com/quest/WarpGate" target="_blank">WarpGate Quest</a>
+- **Xebra**: <a href="https://app.galxe.com/quest/Xebra" target="_blank">Xebra Quest</a>
+- **Yuzu**: <a href="https://app.galxe.com/quest/Yuzu" target="_blank">Yuzu Quest</a>
