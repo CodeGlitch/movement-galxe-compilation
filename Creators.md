@@ -34,7 +34,6 @@
 - **CoScription: CoScription Quest** :N/A
 - **lync: lync Quest** :N/A
 - **Meridian: Meridian Quest** :N/A
-- **Movement: Movement Quest** :N/A
 - **RazorDao: RazorDao Quest** :N/A
 - **Route-X: Route-X Quest** :N/A
 - **Yuzu: Yuzu Quest** :N/A
