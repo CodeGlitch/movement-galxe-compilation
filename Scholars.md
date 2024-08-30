@@ -13,6 +13,7 @@
 - **EnsoFi**: [EnsoFi Quest](https://app.galxe.com/quest/EnsoFi/GCVaPtvgDc)
 - **HenrySocial**: [HenrySocial Quest](https://app.galxe.com/quest/HenrySocial/GCzCGtgKvi)
 - **InterestProtocol**: [InterestProtocol Quest](https://app.galxe.com/quest/InterestProtocol/GCQ83tkVwQ)
+- **LayerBank**: [LayerBank Quest](https://app.galxe.com/quest/LayerBank/GCWaXtxgqU)
 - **LunchApp**: [LunchApp Quest](https://app.galxe.com/quest/LunchApp/GCRDgtvfkJ)
 - **Meridian**: [Meridian Quest](https://app.galxe.com/quest/Meridian/GCzzstkHru)
 - **Mosaic**: [Mosaic Quest](https://app.galxe.com/quest/Mosaic/GCogQtvuiT)
@@ -26,3 +27,13 @@
 - **StableJack**: [StableJack Quest](https://app.galxe.com/quest/StableJack/GCEuTtv7Ad)
 - **WarpGate**: [WarpGate Quest](https://app.galxe.com/quest/WarpGate/GCfPQtveKP)
 - **Xebra**: [Xebra Quest](https://app.galxe.com/quest/Xebra/GCmYptkyer)
+
+- **CoScription: CoScription Quest** :N/A
+- **Echelon: Echelon Quest** :N/A
+- **lync: lync Quest** :N/A
+- **Movement: Movement Quest** :N/A
+- **Movelend: Movelend Quest** :N/A
+- **Moveposition: Moveposition Quest** :N/A
+- **PlayAI: PlayAI Quest** :N/A
+- **Route-X: Route-X Quest** :N/A
+- **Yuzu: Yuzu Quest** :N/A
