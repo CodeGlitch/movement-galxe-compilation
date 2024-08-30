@@ -37,6 +37,7 @@
 - HenrySocial: https://app.galxe.com/quest/HenrySocial/GCw4GtgYVa
 - InterestProtocol: https://app.galxe.com/quest/InterestProtocol/GCjpGtkncZ
 - LunchApp: https://app.galxe.com/quest/LunchApp/GCVXMtvqKm
+- LayerBank: https://app.galxe.com/quest/LayerBank/GCSMXtxvFR
 - lync: https://app.galxe.com/quest/lync/GCjdvtvQ8L
 - Meridian: https://app.galxe.com/quest/Meridian/GC1xMtkucW
 - Mosaic: https://app.galxe.com/quest/Mosaic/GCaANtvi6N
@@ -85,6 +86,7 @@
 - HenrySocial: https://app.galxe.com/quest/HenrySocial/GCFiTtktLm
 - HenrySocial: https://app.galxe.com/quest/HenrySocial/GC4Dhtk7r9
 - InterestProtocol: https://app.galxe.com/quest/InterestProtocol/GCQc3tkxsh
+- LayerBank: https://app.galxe.com/quest/LayerBank/GCepXtxdDi
 - LunchApp: https://app.galxe.com/quest/LunchApp/GC3mdtvrvf
 - Mosaic: https://app.galxe.com/quest/Mosaic/GCH1NtvHvD
 - Movelend: https://app.galxe.com/quest/Movelend/GCLcbtvLnt
@@ -122,6 +124,7 @@
 - EnsoFi: https://app.galxe.com/quest/EnsoFi/GCVaPtvgDc
 - HenrySocial: https://app.galxe.com/quest/HenrySocial/GCzCGtgKvi
 - InterestProtocol: https://app.galxe.com/quest/InterestProtocol/GCQ83tkVwQ
+- LayerBank: https://app.galxe.com/quest/LayerBank/GCWaXtxgqU
 - LunchApp: https://app.galxe.com/quest/LunchApp/GCRDgtvfkJ
 - Meridian: https://app.galxe.com/quest/Meridian/GCzzstkHru
 - Mosaic: https://app.galxe.com/quest/Mosaic/GCogQtvuiT
