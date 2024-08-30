@@ -35,7 +35,6 @@
 - **Xebra**: [Xebra Quest](https://app.galxe.com/quest/Xebra/GCfgptkYRw)
 
 - **CoScription: CoScription Quest** :N/A
-- **Movement: Movement Quest** :N/A
 - **Route-X: Route-X Quest** :N/A
 - **Yuzu: Yuzu Quest** :N/A
 
