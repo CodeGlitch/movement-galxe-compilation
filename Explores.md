@@ -33,3 +33,9 @@
 - **UpNetwork**: [UpNetwork Quest](https://app.galxe.com/quest/UpNetwork/GC7fMtkzfM)
 - **WarpGate**: [WarpGate Quest](https://app.galxe.com/quest/WarpGate/GC3A1tkkUt)
 - **Xebra**: [Xebra Quest](https://app.galxe.com/quest/Xebra/GCfgptkYRw)
+
+- **CoScription: CoScription Quest** :N/A
+- **Movement: Movement Quest** :N/A
+- **Route-X: Route-X Quest** :N/A
+- **Yuzu: Yuzu Quest** :N/A
+
