@@ -10,6 +10,9 @@ If you're having trouble loading Galxe quests in the hub, you can find a compila
 > 
 > ⚠️ Official quests at: [https://testnet.movementlabs.xyz](https://testnet.movementlabs.xyz/)
 
+- **Study, Battle, Build**: [Quest](https://app.galxe.com/quest/Movement/GC4Uwtd8Hr)
+- **Network Status**: [Status Page](https://status.movementlabs.xyz/)
+- 
 - **Avitus**: [Avitus Quest](https://app.galxe.com/quest/Avitus)
 - **BRKT**: [BRKT Quest](https://app.galxe.com/quest/BRKT)
 - **CoScription**: [CoScription Quest](https://app.galxe.com/quest/CoScription)
