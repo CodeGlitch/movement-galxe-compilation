@@ -28,11 +28,11 @@
 - **WarpGate**: [WarpGate Quest](https://app.galxe.com/quest/WarpGate/GCfPQtveKP)
 - **Xebra**: [Xebra Quest](https://app.galxe.com/quest/Xebra/GCmYptkyer)
 
-- **CoScription: CoScription Quest** :N/A
-- **Echelon: Echelon Quest** :N/A
-- **lync: lync Quest** :N/A
-- **Movelend: Movelend Quest** :N/A
-- **Moveposition: Moveposition Quest** :N/A
-- **PlayAI: PlayAI Quest** :N/A
-- **Route-X: Route-X Quest** :N/A
-- **Yuzu: Yuzu Quest** :N/A
+- **CoScription**: [CoScription Quest](https://app.galxe.com/quest/CoScription/GCBR1tx71z)
+- **Echelon**: [Echelon Quest]-()
+- **lync**: [lync Quest]-()
+- **Movelend**: [Movelend Quest]-()
+- **Moveposition**: [Moveposition Quest]-()
+- **PlayAI**: [PlayAI Quest]-()
+- **Route-X**: [Route-X Quest](https://app.galxe.com/quest/Route-X/GC6wTtvaFV)
+- **Yuzu**: [Yuzu Quest]-()
