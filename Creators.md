@@ -31,9 +31,9 @@
 - **UpNetwork**: [UpNetwork Quest](https://app.galxe.com/quest/UpNetwork/GCNvMtkfjN)
 - **WarpGate**: [WarpGate Quest](https://app.galxe.com/quest/WarpGate/GCRSRtvxTo)
 - **Xebra**: [Xebra Quest](https://app.galxe.com/quest/Xebra/GCYJptkpza)
-- **CoScription: CoScription Quest** :N/A
-- **lync: lync Quest** :N/A
-- **Meridian: Meridian Quest** :N/A
-- **RazorDao: RazorDao Quest** :N/A
-- **Route-X: Route-X Quest** :N/A
-- **Yuzu: Yuzu Quest** :N/A
+- **CoScription**: [CoScription Quest](https://app.galxe.com/quest/CoScription/GCBd1tx5nP)
+- **lync**: [lync Quest]()
+- **Meridian**: [Meridian Quest]()
+- **RazorDao**: [RazorDao Quest](https://app.galxe.com/quest/Route-X/GC69TtvaXZ)
+- **Route-X**: [Route-X Quest]()
+- **Yuzu**: [Yuzu Quest]()
