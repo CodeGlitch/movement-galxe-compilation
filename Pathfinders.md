@@ -22,18 +22,18 @@
 - **WarpGate**: [WarpGate Quest](https://app.galxe.com/quest/WarpGate/GCRaRtvvXh)
 - **Xebra**: [Xebra Quest](https://app.galxe.com/quest/Xebra/GCmzptkEkF)
 
-- **BRKT: BRKT Quest** :N/A
-- **Echelon: Echelon Quest** :N/A
-- **InterestProtocol: InterestProtocol Quest** :N/A
-- **LayerBank: LayerBank Quest** :N/A
-- **LunchApp: LunchApp Quest** :N/A
-- **lync: lync Quest** :N/A
-- **Meridian: Meridian Quest** :N/A
-- **Movelend: Movelend Quest** :N/A
-- **Nexio: Nexio Quest** :N/A
-- **OmniBTC: OmniBTC Quest** :N/A
-- **overlay: overlay Quest** :N/A
-- **PlayAI: PlayAI Quest** :N/A
-- **RazorDao: RazorDao Quest** :N/A
-- **Route-X: Route-X Quest** :N/A
-- **Yuzu: Yuzu Quest** :N/A
+- **BRKT**: BRKT Quest]-()
+- **Echelon**: Echelon Quest]-()
+- **InterestProtocol**: InterestProtocol Quest]-()
+- **LayerBank**: LayerBank Quest]-()
+- **LunchApp**: LunchApp Quest]-()
+- **lync**: lync Quest]-()
+- **Meridian**: Meridian Quest]-()
+- **Movelend**: Movelend Quest]-()
+- **Nexio**: Nexio Quest]-()
+- **OmniBTC**: OmniBTC Quest]-()
+- **overlay**: overlay Quest]-()
+- **PlayAI**: PlayAI Quest]-()
+- **RazorDao**: RazorDao Quest]-()
+- **Route-X**: Route-X Quest]-()
+- **Yuzu**: Yuzu Quest]-()
