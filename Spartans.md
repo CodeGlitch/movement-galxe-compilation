@@ -28,12 +28,12 @@
 - **WarpGate**: [WarpGate Quest](https://app.galxe.com/quest/WarpGate/GCqYntkSZM)
 - **Xebra**: [Xebra Quest](https://app.galxe.com/quest/Xebra/GC1DptkXNv)
 
-- **CoScription: CoScription Quest** :N/A
-- **EnsoFi: EnsoFi Quest** :N/A
-- **Movelend: Movelend Quest** :N/A
-- **Moveposition: Moveposition Quest** :N/A
-- **Nexio: Nexio Quest** :N/A
-- **Route-X: Route-X Quest** :N/A
-- **satay: satay Quest** :N/A
-- **UpNetwork: UpNetwork Quest** :N/A
-- **Yuzu: Yuzu Quest** :N/A
+- **CoScription**: [CoScription Quest]-()
+- **EnsoFi**: [EnsoFi Quest]-()
+- **Movelend**: [Movelend Quest]-()
+- **Moveposition**: [Moveposition Quest](https://app.galxe.com/quest/Moveposition/GCVp3tkP4Z)
+- **Nexio**: [Nexio Quest]-()
+- **Route-X**: [Route-X Quest](https://app.galxe.com/quest/Route-X/GCfpTtv9Hs)
+- **satay**: [satay Quest]-()
+- **UpNetwork**: [UpNetwork Quest]-()
+- **Yuzu**: [Yuzu Quest]-()
