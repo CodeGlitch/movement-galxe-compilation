@@ -28,6 +28,7 @@ If you're having trouble loading Galxe quests in the hub, you can find a compila
 - **Mosaic**: [Mosaic Quest](https://app.galxe.com/quest/Mosaic)
 - **Movelend**: [Movelend Quest](https://app.galxe.com/quest/Movelend)
 - **Movement**: [Movement Quest](https://app.galxe.com/quest/Movement)
+- **MoveNow**: [MoveNow Quest](https://app.galxe.com/quest/MoveNow)
 - **Moveposition**: [Moveposition Quest](https://app.galxe.com/quest/Moveposition)
 - **Movewiffrens**: [Movewiffrens Quest](https://app.galxe.com/quest/Movewiffrens)
 - **Nexio**: [Nexio Quest](https://app.galxe.com/quest/Nexio)
