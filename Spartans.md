@@ -31,6 +31,7 @@
 - **CoScription**: [CoScription Quest]-()
 - **EnsoFi**: [EnsoFi Quest]-()
 - **Movelend**: [Movelend Quest]-()
+- **MoveNow**: [MoveNow Quest](https://app.galxe.com/quest/MoveNow/GCPBhtvnNq)
 - **Moveposition**: [Moveposition Quest](https://app.galxe.com/quest/Moveposition/GCVp3tkP4Z)
 - **Nexio**: [Nexio Quest]-()
 - **Route-X**: [Route-X Quest](https://app.galxe.com/quest/Route-X/GCfpTtv9Hs)
