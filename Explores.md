@@ -21,6 +21,7 @@
 - **Mosaic**: [Mosaic Quest](https://app.galxe.com/quest/Mosaic/GCjDNtvnpu)
 - **Movelend**: [Movelend Quest](https://app.galxe.com/quest/Movelend/GCHuHtvk8Q)
 - **Moveposition**: [Moveposition Quest](https://app.galxe.com/quest/Moveposition/GCNnRtkHP5)
+- **MoveNow**: [MoveNow Quest](https://app.galxe.com/quest/MoveNow/GCXoAtkkiw)
 - **Movewiffrens**: [Movewiffrens Quest](https://app.galxe.com/quest/Movewiffrens/GCkxYtkqfz)
 - **Nexio**: [Nexio Quest](https://app.galxe.com/quest/Nexio/GCeMFtgg3h)
 - **OmniBTC**: [OmniBTC Quest](https://app.galxe.com/quest/OmniBTC/GCnJ7tvmPU)
