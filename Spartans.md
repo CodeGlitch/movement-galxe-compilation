@@ -29,7 +29,7 @@
 - **Xebra**: [Xebra Quest](https://app.galxe.com/quest/Xebra/GC1DptkXNv)
 
 - **CoScription**: [CoScription Quest]-()
-- **EnsoFi**: [EnsoFi Quest]-()
+- **EnsoFi**: [EnsoFi Quest](https://app.galxe.com/quest/EnsoFi/GCryKtxQ9s)
 - **Movelend**: [Movelend Quest]-()
 - **MoveNow**: [MoveNow Quest](https://app.galxe.com/quest/MoveNow/GCPBhtvnNq)
 - **Moveposition**: [Moveposition Quest](https://app.galxe.com/quest/Moveposition/GCVp3tkP4Z)
