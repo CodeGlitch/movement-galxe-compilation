@@ -37,3 +37,4 @@
 - **RazorDao**: [RazorDao Quest](https://app.galxe.com/quest/Route-X/GC69TtvaXZ)
 - **Route-X**: [Route-X Quest]-()
 - **Yuzu**: [Yuzu Quest]-()
+- **XenoBunny**: [XenoBunny Quest](https://app.galxe.com/quest/XenoBunny/GC1Kutxt5Y)
