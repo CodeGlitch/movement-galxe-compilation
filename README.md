@@ -44,3 +44,4 @@ If you're having trouble loading Galxe quests in the hub, you can find a compila
 - **WarpGate**: [WarpGate Quest](https://app.galxe.com/quest/WarpGate)
 - **Xebra**: [Xebra Quest](https://app.galxe.com/quest/Xebra)
 - **Yuzu**: [Yuzu Quest](https://app.galxe.com/quest/Yuzu)
+- **XenoBunny**: [XenoBunny Quest](https://app.galxe.com/quest/XenoBunny)
