@@ -38,3 +38,4 @@
 - **satay**: [satay Quest]-()
 - **UpNetwork**: [UpNetwork Quest]-()
 - **Yuzu**: [Yuzu Quest]-()
+- **Xenobunny**: [Xenobunny Quest](https://app.galxe.com/quest/XenoBunny/GCWhQtxK3r)
