@@ -36,3 +36,4 @@
 - **PlayAI**: [PlayAI Quest]-()
 - **Route-X**: [Route-X Quest](https://app.galxe.com/quest/Route-X/GC6wTtvaFV)
 - **Yuzu**: [Yuzu Quest]-()
+- **XenoBunny**: [XenoBunny Quest](https://app.galxe.com/quest/XenoBunny/GCWAQtxKjF)
