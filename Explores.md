@@ -37,4 +37,5 @@
 - **CoScription**: [CoScription Quest](https://app.galxe.com/quest/CoScription/GCMn4tx5eS)
 - **Route-X**: [Route-X Quest](https://app.galxe.com/quest/Route-X/GCRkTtvxKS)
 - **Yuzu**: [Yuzu Quest](https://app.galxe.com/quest/Yuzu/GChbEtkTNN)
+- **XenoBunny**: [XenoBunny Quest](https://app.galxe.com/quest/XenoBunny/GCSfQtxocv)
 
