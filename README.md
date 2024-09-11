@@ -48,7 +48,7 @@ If you're having trouble loading Galxe quests in the hub, you can find a compila
 - **Liquidswap**: [Liquidswap Quest](https://app.galxe.com/quest/Liquidswap)
 - **Thunderhead**: [Thunderhead Quest](https://app.galxe.com/quest/Thunderhead)
 - **Stream Finance**: [Stream Finance Quest](https://app.galxe.com/quest/StreamFinance)
-- **THE GUILD**: [Stream Finance Quest](https://app.galxe.com/quest/TheGuild)
+- **THE GUILD**: [THE GUILDE Quest](https://app.galxe.com/quest/TheGuild)
 - **RIZE**: [RIZE Quest](https://app.galxe.com/quest/RIZE)
 - **Infinite Seas**: [Infinite Seas Quest](https://app.galxe.com/quest/InfiniteSeas)
 - **Podium**: [Podium Quest](https://app.galxe.com/quest/podium)
