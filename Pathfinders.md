@@ -21,6 +21,7 @@
 - **UpNetwork**: [UpNetwork Quest](https://app.galxe.com/quest/UpNetwork/GCNXMtkm3m)
 - **WarpGate**: [WarpGate Quest](https://app.galxe.com/quest/WarpGate/GCRaRtvvXh)
 - **Xebra**: [Xebra Quest](https://app.galxe.com/quest/Xebra/GCmzptkEkF)
+- **Infinite Seas**: [Infinite Seas Quest](https://app.galxe.com/quest/InfiniteSeas/GCEa5tkBpX)
 
 - **BRKT**: [BRKT Quest]-()
 - **Echelon**: [Echelon Quest]-()
