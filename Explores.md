@@ -38,4 +38,7 @@
 - **Route-X**: [Route-X Quest](https://app.galxe.com/quest/Route-X/GCRkTtvxKS)
 - **Yuzu**: [Yuzu Quest](https://app.galxe.com/quest/Yuzu/GChbEtkTNN)
 - **XenoBunny**: [XenoBunny Quest](https://app.galxe.com/quest/XenoBunny/GCSfQtxocv)
+- **Podium**: [Podium Quest](https://app.galxe.com/quest/Podium/GCG54tk9Bs)
+- **Infinite Seas**: [Infinite Seas Quest](https://app.galxe.com/quest/InfiniteSeas/GCNm5tkREm)
+- **Stream Finance**: [Stream Finance Quest](https://app.galxe.com/quest/StreamFinance/GCuFJtvMug)
 
