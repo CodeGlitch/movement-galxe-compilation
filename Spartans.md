@@ -27,7 +27,8 @@
 - **StableJack**: [StableJack Quest](https://app.galxe.com/quest/StableJack/GCX8QtkWas)
 - **WarpGate**: [WarpGate Quest](https://app.galxe.com/quest/WarpGate/GCqYntkSZM)
 - **Xebra**: [Xebra Quest](https://app.galxe.com/quest/Xebra/GC1DptkXNv)
-
+- **Stream Finance**: [Stream Finance Quest](https://app.galxe.com/quest/StreamFinance/GCVrTtvJBc)
+- 
 - **CoScription**: [CoScription Quest]-()
 - **EnsoFi**: [EnsoFi Quest](https://app.galxe.com/quest/EnsoFi/GCryKtxQ9s)
 - **Movelend**: [Movelend Quest]-()
