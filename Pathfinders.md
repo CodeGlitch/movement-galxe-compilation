@@ -22,7 +22,7 @@
 - **WarpGate**: [WarpGate Quest](https://app.galxe.com/quest/WarpGate/GCRaRtvvXh)
 - **Xebra**: [Xebra Quest](https://app.galxe.com/quest/Xebra/GCmzptkEkF)
 - **Infinite Seas**: [Infinite Seas Quest](https://app.galxe.com/quest/InfiniteSeas/GCEa5tkBpX)
-
+- **RIZE**: [RIZE Quest](https://app.galxe.com/quest/RIZE/GCFo2tkEES)
 - **BRKT**: [BRKT Quest]-()
 - **Echelon**: [Echelon Quest]-()
 - **InterestProtocol**: [InterestProtocol Quest]-()
