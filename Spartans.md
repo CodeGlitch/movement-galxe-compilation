@@ -28,7 +28,7 @@
 - **WarpGate**: [WarpGate Quest](https://app.galxe.com/quest/WarpGate/GCqYntkSZM)
 - **Xebra**: [Xebra Quest](https://app.galxe.com/quest/Xebra/GC1DptkXNv)
 - **Stream Finance**: [Stream Finance Quest](https://app.galxe.com/quest/StreamFinance/GCVrTtvJBc)
-- 
+- **RIZE**: [RIZE Quest](https://app.galxe.com/quest/RIZE/GCKewtv3yU)
 - **CoScription**: [CoScription Quest]-()
 - **EnsoFi**: [EnsoFi Quest](https://app.galxe.com/quest/EnsoFi/GCryKtxQ9s)
 - **Movelend**: [Movelend Quest]-()
