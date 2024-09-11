@@ -32,6 +32,7 @@
 - **WarpGate**: [WarpGate Quest](https://app.galxe.com/quest/WarpGate/GCRSRtvxTo)
 - **Xebra**: [Xebra Quest](https://app.galxe.com/quest/Xebra/GCYJptkpza)
 - **CoScription**: [CoScription Quest](https://app.galxe.com/quest/CoScription/GCBd1tx5nP)
+- **RIZE**: [RIZE Quest](https://app.galxe.com/quest/RIZE/GCav2tke7U)
 - **lync**: [lync Quest]-()
 - **Meridian**: [Meridian Quest]-()
 - **RazorDao**: [RazorDao Quest](https://app.galxe.com/quest/Route-X/GC69TtvaXZ)
