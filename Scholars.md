@@ -27,7 +27,7 @@
 - **StableJack**: [StableJack Quest](https://app.galxe.com/quest/StableJack/GCEuTtv7Ad)
 - **WarpGate**: [WarpGate Quest](https://app.galxe.com/quest/WarpGate/GCfPQtveKP)
 - **Xebra**: [Xebra Quest](https://app.galxe.com/quest/Xebra/GCmYptkyer)
-
+- **RIZE**: [RIZE Quest](https://app.galxe.com/quest/RIZE/GCaX2tkWCL)
 - **CoScription**: [CoScription Quest](https://app.galxe.com/quest/CoScription/GCBR1tx71z)
 - **Echelon**: [Echelon Quest]-()
 - **lync**: [lync Quest]-()
