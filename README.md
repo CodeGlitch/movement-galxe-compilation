@@ -52,3 +52,5 @@ If you're having trouble loading Galxe quests in the hub, you can find a compila
 - **RIZE**: [RIZE Quest](https://app.galxe.com/quest/RIZE)
 - **Infinite Seas**: [Infinite Seas Quest](https://app.galxe.com/quest/InfiniteSeas)
 - **Podium**: [Podium Quest](https://app.galxe.com/quest/podium)
+- **Hypervative**: [Hypervative Quest](https://app.galxe.com/quest/Hypervative)
+
