@@ -41,4 +41,5 @@
 - **Podium**: [Podium Quest](https://app.galxe.com/quest/Podium/GCG54tk9Bs)
 - **Infinite Seas**: [Infinite Seas Quest](https://app.galxe.com/quest/InfiniteSeas/GCNm5tkREm)
 - **Stream Finance**: [Stream Finance Quest](https://app.galxe.com/quest/StreamFinance/GCuFJtvMug)
+- **Hypervative**: [Hypervative Quest](https://app.galxe.com/quest/Hypervative/GCTJYtxGNw)
 
